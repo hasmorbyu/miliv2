@@ -17,6 +17,7 @@ git clone https://github.com/hasmorbyu/miliv2.git
 cd miliv2
 
 python3 -m venv venv
+
 source venv/bin/activate
 
 pip install -r requirements.txt
