@@ -12,7 +12,8 @@ Miliv2 is a Python-based project that implements a real-time object detection an
 
 ## Installation
 
-git clone https://github.com/yourusername/miliv2.git
+git clone https://github.com/hasmorbyu/miliv2.git
+
 cd miliv2
 
 python3 -m venv venv
