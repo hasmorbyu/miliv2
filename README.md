@@ -29,6 +29,10 @@ python main.py
 (in a new terminal for ground station telemetry data)
 python station_listener.py 
 
+## Exit Simulation
+
+press Ctrl+C inside terminal to kill graphical rendering
+
 ## Visual Reference
 
 <img width="1920" height="1006" alt="image" src="https://github.com/user-attachments/assets/2e07bf18-0bf2-406b-8fee-3e03fbce28be" />
